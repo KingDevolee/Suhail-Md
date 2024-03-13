@@ -76,9 +76,9 @@ module.exports = {
   VERSION : process.env.VERSION || "1.3.0",
   caption : process.env.CAPTION || "©sᴜʜᴀɪʟ²²¹-ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author : process.env.PACK_AUTHER|| "Suhail-MD",
-  packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "sᴜʜᴀɪʟ-ᴍᴅ",
+  author : process.env.PACK_AUTHER|| "KING-DAVID-BOT",
+  packname: process.env.PACK_NAME || "KING DAVID BOT",
+  botname : process.env.BOT_NAME  || KING-DAVID-BOT",
   ownername:process.env.OWNER_NAME|| "It'x Suhail",
 
 
