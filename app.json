@@ -1,15 +1,15 @@
 {
   "name": "suhail-md@1.2.8",
   "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
+  "logo":  "https://www.istockphoto.com/photo/human-like-a-robot-in-a-pensive-posture-gm1354827837-429476357",
+  "keywords": ["whatsappbot", "KING DAVID TV", "KING-DAVID-BOT", "KING-DAVID-BOT", "KING DAVID TV", "KING DAVID","KING DAVID","KING DAVID TV BOT","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "KING DAVID TV",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "KING DAVID TV BOT"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://www.istockphoto.com/photo/human-like-a-robot-in-a-pensive-posture-gm1354827837-429476357"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -56,7 +56,7 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "",
+      "value": "97488005-f612-4e00-89d0-015552348104"
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
